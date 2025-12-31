@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am intern in Digi Mirai 
+Java Backend Developer | Spring Boot , Microservices | AI & Cloud | CS Student
 
 
 ## 🌐 Socials:
